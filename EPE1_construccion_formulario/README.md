@@ -3,11 +3,14 @@
 Proyecto basico para donde se prueban distintas utilidades de formularios en VisualBasic.net
 
 ## Especificaciones tecnicas
+
 - Desarrollado en Visual Studio 20222
 - Versión de Net framework 8.0 LTS
 
 <hr/>
+
 ## Fuentes Externas utilizadas
+
 <a href="https://www.flaticon.es/iconos-gratis/github" title="github iconos">Github iconos creados por Dave Gandy - Flaticon</a>
 <a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
 <a href="https://www.flaticon.es/iconos-gratis/logotipo-de-instagram" title="logotipo de instagram iconos">Logotipo de instagram iconos creados por Rakib Hassan Rahim - Flaticon</a>
