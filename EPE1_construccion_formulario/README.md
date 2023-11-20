@@ -4,7 +4,7 @@ Proyecto basico para donde se prueban distintas utilidades de formularios en Vis
 
 ## Especificaciones tecnicas
 
-- Desarrollado en Visual Studio 20222
+- Desarrollado en Visual Studio 2022
 - Versión de Net framework 8.0 LTS
 
 <hr/>
